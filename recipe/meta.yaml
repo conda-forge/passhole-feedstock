@@ -1,4 +1,4 @@
-{% set version = "1.10.0" %}
+{% set version = "1.10.1" %}
 
 package:
   name: passhole
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/passhole/passhole-{{ version }}.tar.gz
-  sha256: de937186a9a4c3cb4ed30541b999ee6bae0726b129c9e35200a88032c338a156
+  sha256: e71f110391f40f100023475e2d78544b2faae6f1a2c4258753877d1585d171d1
 
 build:
   number: 0
